@@ -3,6 +3,7 @@
 Snag a file is a utility applications that allows for users to use concurency to download files off the web
 this repository is only 
 [Check out Snag a file blog post](http://casaconqueso.one/)
+or
 [checkout the snag a file application]()
 
 ## Table of Contents
