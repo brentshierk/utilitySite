@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Snag a File </title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on Snag a File </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Jul 2021 12:51:38 -0700</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spd1.5 final blog post</title>
+      <link>http://example.org/posts/spd1.5blog_post/</link>
+      <pubDate>Fri, 16 Jul 2021 12:51:38 -0700</pubDate>
+      
+      <guid>http://example.org/posts/spd1.5blog_post/</guid>
+      <description>What is Snag a File? Snag a file is a product in active development that allows users to make use of all of that bandwidth they pay for when downloading files or content off the internet
+Why? As someone who pays for expensive internet, I&amp;rsquo;d like to actually make use of what i&amp;rsquo;m paying for. Plus time is a resource and we often can be stuck downloading files for hours so I built Snag a file, a utility that makes use of Go’s concurrency features.</description>
+    </item>
+    
+    <item>
+      <title>Bew 2.2 Final blog post</title>
+      <link>http://example.org/posts/my-first-post/</link>
+      <pubDate>Fri, 16 Jul 2021 10:53:52 -0700</pubDate>
+      
+      <guid>http://example.org/posts/my-first-post/</guid>
+      <description>#dockerize
+blank blank blank blank</description>
+    </item>
+    
+  </channel>
+</rss>
