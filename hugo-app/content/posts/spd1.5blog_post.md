@@ -1,7 +1,7 @@
 ---
 title: "Spd1.5 final blog post"
 date: 2021-07-16T12:51:38-07:00
-draft: true
+draft: false 
 ---
 
 What is Snag a File?
